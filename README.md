@@ -1,0 +1,118 @@
+<div align="center">
+<!-- 动态打字效果 -->
+    <div align="center">
+        <a href="#">
+            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=我们终会遇见美好;祝你我得偿所愿!&center=true&size=27" alt="Typing SVG" />
+        </a>
+    </div>
+
+<!-- 添加图片  -->
+<img src=""><br>
+
+<!-- 个人资料徽标 -->
+<div align="center">
+    <a href="#">
+    	<img src="https://img.shields.io/badge/Blog-%E5%8D%9A%E5%AE%A2-red" />
+    </a>&emsp;
+    <a href="#">
+        <img src="https://img.shields.io/badge/Bilibili-B%E7%AB%99-blue" />
+    </a>&emsp;
+</div>
+</div>
+
+## Hello
+
+<table>
+<tr><td>
+    
+### 关于我
+    
+<p>&emsp;&emsp;我，一个时常想摆烂的代码人</p>
+<p>&emsp;&emsp;正在努力学习编程当中</p>
+<p>&emsp;&emsp;学习编程很痛苦，但我享受代码成功那一瞬间的喜悦</p>
+<p>&emsp;&emsp;我们终会遇见那美好，真心地祝愿你我得偿所愿</p>
+<p>&emsp;&emsp;Cherish the present, cherish the people in front of you, life is only once, not so much in the future</p>
+<p>&emsp;&emsp;别人的话构不成万分之一的我，却可以构成一览无余的他</p>
+    
+</td></tr>
+  
+<tr><td>
+    
+### 近期博客
+
+* <a href='https://www.qichenxiaoni.work/obsidian%E6%8F%92%E4%BB%B6%E6%B1%89%E5%8C%96/' target='_blank'>Obsidian插件汉化</a>-2023-04-10
+
+</td></tr>
+  
+<tr><td>
+  
+### 灵魂共鸣
+  
+* <a href='https://movie.douban.com/subject/1292720/' target='_blank'> 阿甘正传 </a> 🌟🌟🌟🌟🌟 推荐 -2023-04-16
+* <a href='https://weread.qq.com/web/bookDetail/33332bf05cbba0333b1efb4' target='_blank'> 活着 </a> 🌟🌟🌟🌟🌟 推荐 -2023-04-16
+* <a href='https://weread.qq.com/web/bookDetail/b1a327905cbba1b1ad515cf' target='_blank'> 许三观卖血记 </a> 🌟🌟🌟🌟🌟 推荐 -2023-04-16
+* <a href='https://weread.qq.com/web/bookDetail/801324d05cbba380129b0a1' target='_blank'> 在细雨中呼喊 </a> 🌟🌟🌟🌟🌟 推荐 -2023-04-16
+* <a href='https://weread.qq.com/web/bookDetail/bab32a3071628416babd854' target='_blank'> 云边有个小卖部 </a> 🌟🌟🌟🌟🌟 推荐 -2023-04-16
+  
+</td></tr>
+</table>
+
+<!-- 分割线 -->
+<hr>
+
+<div align="center">
+
+<!-- 技能徽章 -->
+### 学习中....
+
+![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+  
+### 计划学习....
+
+![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
+![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
+![MySQL Badge](https://img.shields.io/badge/MySQL-1FAFD1?logo=MySQL&logoColor=fff&style=flat)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+![Java Badge](https://img.shields.io/badge/Java-3776AB?logo=java&logoColor=fff&style=flat)
+  
+### 常用工具....
+  
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
+![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
+![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+![Obsidian Badge](https://img.shields.io/badge/Obsidian-EBEAF3?logo=obsidian&logoColor=6044B0&style=flat)
+  
+<!-- svg -->
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px">
+</div>
+
+<hr>
+
+<div align="center" >
+
+<!-- GitHub 奖杯🏆 -->
+<img  src="https://github-profile-trophy.vercel.app/?username=qichenxiaoni&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br> 
+
+<!-- GitHub 数据统计 -->
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=qichenxiaoni&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=qichenxiaoni&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
+  
+<!-- Awesome repo 比较好的仓库-->
+<a href="#">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qichenxiaoni&repo=Awesome-Love-Code&theme=dark&bg_color=121212&hide_border=true" /></a>
+<a href="#">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qichenxiaoni&repo=Student-Data-Vision&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
+</div> 
+
+<div align="center">
+<!-- github-readme-streak-stats 连续提交代码天数记录 -->
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qichenxiaoni&theme=dark&hide_border=true" />
+</div>
