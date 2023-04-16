@@ -1,13 +1,13 @@
 <div align="center">
 <!-- 动态打字效果 -->
     <div align="center">
-        <a href="#">
+        <a href="https://chenxiaoni.work">
             <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=我们终会遇见美好;祝你我得偿所愿!&center=true&size=27" alt="Typing SVG" />
         </a>
     </div>
 
 <!-- 添加图片  -->
-<img src=""><br>
+<img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/images/coding.gif"><br>
 
 <!-- 个人资料徽标 -->
 <div align="center">
@@ -17,15 +17,19 @@
     <a href="#">
         <img src="https://img.shields.io/badge/Bilibili-B%E7%AB%99-blue" />
     </a>&emsp;
+    <!-- visitor statistics logo 访客数统计徽标 -->
+    <img src="https://visitor-badge.glitch.me/badge?page_id=qichenxiaoni" alt="访客统计" />
 </div>
 </div>
 
-## Hello
+## 🙋Hello
 
 <table>
 <tr><td>
     
-### 关于我
+### :wave:关于我
+
+<img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/images/hi.gif" align="right" width="250">
     
 <p>&emsp;&emsp;我，一个时常想摆烂的代码人</p>
 <p>&emsp;&emsp;正在努力学习编程当中</p>
@@ -38,7 +42,9 @@
   
 <tr><td>
     
-### 近期博客
+### :notebook:近期博客
+
+<img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/images/hi.gif" align="right" width="250">
 
 * <a href='https://www.qichenxiaoni.work/obsidian%E6%8F%92%E4%BB%B6%E6%B1%89%E5%8C%96/' target='_blank'>Obsidian插件汉化</a>-2023-04-10
 
@@ -46,7 +52,9 @@
   
 <tr><td>
   
-### 灵魂共鸣
+### :heart_decoration:灵魂共鸣
+
+<img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/images/hi.gif" align="right" width="250">
   
 * <a href='https://movie.douban.com/subject/1292720/' target='_blank'> 阿甘正传 </a> 🌟🌟🌟🌟🌟 推荐 -2023-04-16
 * <a href='https://weread.qq.com/web/bookDetail/33332bf05cbba0333b1efb4' target='_blank'> 活着 </a> 🌟🌟🌟🌟🌟 推荐 -2023-04-16
@@ -57,10 +65,12 @@
 </td></tr>
 </table>
 
-<!-- 分割线 -->
-<hr>
+<!-- =======================分割线========================== -->
+<img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/images/hr.gif" width="100%">
 
-<div align="center">
+<div align="center" >
+
+<img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/images/man.png">
 
 <!-- 技能徽章 -->
 ### 学习中....
@@ -76,7 +86,7 @@
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-1FAFD1?logo=MySQL&logoColor=fff&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-![Java Badge](https://img.shields.io/badge/Java-3776AB?logo=java&logoColor=fff&style=flat)
+![Java Badge](https://img.shields.io/badge/Java-3776AB?logo=Java&logoColor=fff&style=flat)
   
 ### 常用工具....
   
@@ -85,17 +95,35 @@
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 ![Obsidian Badge](https://img.shields.io/badge/Obsidian-EBEAF3?logo=obsidian&logoColor=6044B0&style=flat)
-  
+
+<!-- 编程工具icon -->
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,linux,git,vscode,idea,mysql"><br>
+
 <!-- svg -->
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px"><br>
+
+<!-- gif -->
+<img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/images/html.webp" height='100' width='100'>
+<img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/images/cssgif.webp" height='100' width='100'>
+<img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/images/js.webp" height='100' width='100'>
+<img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/images/python.webp" height='100' width='100'>
+<img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/images/vscode.webp" height='100' width='100'>
+<img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/images/github.webp" height='100' width='100'>
+
+<!-- 过渡图片 -->
+<img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/images/icon.png">
 </div>
 
-<hr>
+<!-- =======================分割线========================== -->
+<img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/images/hr.gif" width="100%">
+
 
 <div align="center" >
+
+<img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/images/man_run.png">
 
 <!-- GitHub 奖杯🏆 -->
 <img  src="https://github-profile-trophy.vercel.app/?username=qichenxiaoni&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br> 
@@ -105,14 +133,36 @@
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=qichenxiaoni&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
   
 <!-- Awesome repo 比较好的仓库-->
-<a href="#">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qichenxiaoni&repo=Awesome-Love-Code&theme=dark&bg_color=121212&hide_border=true" /></a>
-<a href="#">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qichenxiaoni&repo=Student-Data-Vision&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
+<a href="https://github.com/qichenxiaoni/Obsidian-Plugin-Chinese">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qichenxiaoni&repo=Obsidian-Plugin-Chinese&theme=dark&bg_color=121212&hide_border=true" /></a>
+<a href="https://github.com/qichenxiaoni/qichenxiaoni.github.io">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qichenxiaoni&repo=qichenxiaoni.github.io&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
+
+<!-- 个人信息 -->
+<img src="https://metrics.lecoq.io/qichenxiaoni?template=classic&config.timezone=Asia%2FShanghai">
 </div> 
 
 <div align="center">
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qichenxiaoni&theme=dark&hide_border=true" />
+
+<!-- github活动图 -->
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=qichenxiaoni&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/>
+</div>
+<!-- =======================分割线========================== -->
+<img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/images/hr.gif" width="100%">
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/images/play.png">
+
+<!-- Quotes 名人名言 -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
+
+<!-- 每日笑话 -->
+<img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212&theme=prussian" alt="Jokes Card" />
+
+<img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/images/githubgif.gif">
+
 </div>
