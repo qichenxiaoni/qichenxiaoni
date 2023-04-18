@@ -10,7 +10,7 @@
 <img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/images/coding.gif"><br>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-<img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/qichenxiaoni/qichenxiaoni/main/assets/github-contribution-grid-snake.svg" />
 
 <!-- 个人资料徽标 -->
 <div align="center">
