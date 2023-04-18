@@ -9,6 +9,8 @@
 <!-- 添加图片  -->
 <img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/images/coding.gif"><br>
 
+<img src="https://raw.githubusercontent.com/qichenxiaoni/qichenxiaoni/main/assets/github-contribution-grid-snake.svg">
+
 <!-- 个人资料徽标 -->
 <div align="center">
     <a href="#">
