@@ -13,7 +13,7 @@ function generateProgressBar() {
     return `{ ${progressBar} }`
 }
 
-const readme = `\
+const readme += `\
 <div align="center">
 <!-- 动态打字效果 -->
     <div align="center">
