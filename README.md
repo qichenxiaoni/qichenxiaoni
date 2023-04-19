@@ -9,8 +9,8 @@
 <!-- 添加图片  -->
 <img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/images/coding.gif"><br>
 
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-<img src="https://raw.githubusercontent.com/qichenxiaoni/qichenxiaoni/main/assets/github-snake.svg" />
+<!-- 贪吃蛇 - 图片有 actions/Generate Snake 定时生成 -->
+<img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
 
 <!-- 个人资料徽标 -->
 <div align="center">
