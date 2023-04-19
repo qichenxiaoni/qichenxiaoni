@@ -6,10 +6,11 @@
         </a>
     </div>
 
+### Hi there 👋<br>
 <div align="center">  
-### Hi there 👋
+
 ⏳ Year progress { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 29.67 %
----
+---<br>
 ⏰ Updated on Wed, 19 Apr 2023 07:22:01 GMT
 </div>
   
