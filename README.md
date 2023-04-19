@@ -229,6 +229,9 @@ TypeScript               1 repo              ████░░░░░░░�
 
 <!-- 个人信息 -->
 <img src="https://metrics.lecoq.io/qichenxiaoni?template=classic&config.timezone=Asia%2FShanghai">
+
+<!-- Github-Stats-Terminal 终端风格信息 -->
+<img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/Github-Stats-Terminal/github_stats.svg"/><br>
 </div> 
 
 <div align="center">

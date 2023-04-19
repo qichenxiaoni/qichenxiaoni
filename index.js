@@ -34,7 +34,7 @@ const readme = `\
 <img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/images/coding.gif"><br>
 
 <!-- 贪吃蛇 - 图片有 actions/Generate Snake 定时生成 -->
-<img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
+<img width="100%" alt="github-snake" src="./profile-snake-contrib/github-snake.svg" />
 
 <!-- 个人资料徽标 -->
 <div align="center">
@@ -174,6 +174,9 @@ const readme = `\
 
 <!-- 个人信息 -->
 <img src="https://metrics.lecoq.io/qichenxiaoni?template=classic&config.timezone=Asia%2FShanghai">
+
+<!-- Github-Stats-Terminal 终端风格信息 -->
+<img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/Github-Stats-Terminal/github_stats.svg"/><br>
 </div> 
 
 <div align="center">
