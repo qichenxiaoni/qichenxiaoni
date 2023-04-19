@@ -1,30 +1,26 @@
-# GitHub Action for generating a contribution graph with a snake eating your contributions.
-
-name: Generate Snake
+name: Progress Bar CI
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
   workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *'
 
 jobs:
   build:
+
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3.5.2
-
-      - name: Generate Snake
-        uses: Platane/snk@main
-        id: snake-gif
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          gif_out_path: ./assets/github-contribution-grid-snake.gif
-          svg_out_path: ./assets/github-contribution-grid-snake.svg
-
-      - name: Push to GitHub
-        uses: EndBug/add-and-commit@v9.1.1
-        with:
-          branch: main
-          message: 'Generate Contribution Snake'
+    - uses: actions/checkout@v2
+    - name: Use Node.js
+      uses: actions/setup-node@v1
+      with:
+        node-version: '14.x'
+    - name: Update README.md
+      run: node index.js > README.md
+    - name: Commit change & Push
+      run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '3059373598+github-actions[bot]@users.noreply.github.com'
+          git commit -am "bot: update README.md automatically"
+          git push
