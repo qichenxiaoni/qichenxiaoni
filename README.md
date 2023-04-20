@@ -78,7 +78,82 @@
 <tr><td>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2040%20mins-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 85.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 291 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 11 Public Repositories 
+ > 
+> 🔑 3 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                52 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+🌆 Daytime                173 commits         ██████████████░░░░░░░░░░░   55.81 % 
+🌃 Evening                81 commits          ███████░░░░░░░░░░░░░░░░░░   26.13 % 
+🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   131 commits         ███████████░░░░░░░░░░░░░░   42.26 % 
+Tuesday                  53 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+Wednesday                48 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+Thursday                 13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+Friday                   25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+Saturday                 2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Sunday                   38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+YAML                     5 hrs 29 mins       ███████████░░░░░░░░░░░░░░   45.99 % 
+Markdown                 4 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   38.15 % 
+CSS                      43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+HTML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+TOML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+
+🔥 Editors: 
+VS Code                  11 hrs 55 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Blog                     5 hrs 19 mins       ███████████░░░░░░░░░░░░░░   44.69 % 
+qichenxiaoni             3 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   27.71 % 
+html学习                   1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+My_Blog                  45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+Github-Stats-Terminal    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+
+💻 Operating System: 
+Linux                    10 hrs 24 mins      ██████████████████████░░░   87.21 % 
+Windows                  1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     3 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
+JavaScript               3 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
+TypeScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+```
+
+
+
+
+ Last Updated on 20/04/2023 07:11:12 UTC
 <!--END_SECTION:waka-->
 
 </table>
