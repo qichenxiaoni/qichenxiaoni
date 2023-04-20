@@ -27,7 +27,7 @@ const readme = `\
 
 ⏳ Year progress { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 29.67 %
 ---<br>
-⏰ Updated on Wed, 19 Apr 2023 07:22:01 GMT
+⏰ Updated on ${new Date().toUTCString()}
 </div>
   
 <!-- 添加图片  -->
