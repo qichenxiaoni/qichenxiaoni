@@ -78,7 +78,83 @@
 <tr><td>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2019%20mins-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 86.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 300 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 11 Public Repositories 
+ > 
+> 🔑 3 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                58 commits          █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+🌆 Daytime                177 commits         ██████████████░░░░░░░░░░░   55.31 % 
+🌃 Evening                81 commits          ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
+🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   132 commits         ██████████░░░░░░░░░░░░░░░   41.25 % 
+Tuesday                  54 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+Wednesday                49 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+Thursday                 17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+Friday                   26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+Saturday                 3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Sunday                   39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 5 hrs 15 mins       ███████████████░░░░░░░░░░   59.07 % 
+YAML                     1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+CSS                      43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+HTML                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+JavaScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+
+🔥 Editors: 
+VS Code                  6 hrs 29 mins       ██████████████████░░░░░░░   72.77 % 
+Obsidian                 2 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   27.23 % 
+
+🐱‍💻 Projects: 
+Unknown Project          2 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   27.23 % 
+Blog                     2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
+html学习                   1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+My_Blog                  59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+qichenxiaoni             47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+
+💻 Operating System: 
+Linux                    6 hrs 39 mins       ███████████████████░░░░░░   74.66 % 
+Windows                  2 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     3 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
+JavaScript               3 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
+TypeScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+```
+
+
+
+
+ Last Updated on 26/04/2023 06:20:53 UTC
 <!--END_SECTION:waka-->
 
 </table>
