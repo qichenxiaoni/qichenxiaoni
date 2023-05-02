@@ -78,7 +78,73 @@
 <tr><td>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2019%20mins-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 86.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 306 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 11 Public Repositories 
+ > 
+> 🔑 3 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                64 commits          █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
+🌆 Daytime                177 commits         ██████████████░░░░░░░░░░░   54.29 % 
+🌃 Evening                81 commits          ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
+🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   133 commits         ██████████░░░░░░░░░░░░░░░   40.80 % 
+Tuesday                  55 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Wednesday                49 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Thursday                 18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Friday                   27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+Saturday                 4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Sunday                   40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     3 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
+JavaScript               3 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
+TypeScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+```
+
+
+
+
+ Last Updated on 02/05/2023 06:20:49 UTC
 <!--END_SECTION:waka-->
 
 </table>
