@@ -11,7 +11,7 @@
 
 ⏳ Year progress { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 29.67 %
 ---<br>
-⏰ Updated on Thu, 11 May 2023 00:32:05 GMT
+⏰ Updated on Thu, 11 May 2023 06:08:33 GMT
 </div>
   
 <!-- 添加图片  -->
@@ -78,73 +78,7 @@
 <tr><td>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2019%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 86.9 kB Used in GitHub's Storage 
- > 
-> 🏆 315 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 11 Public Repositories 
- > 
-> 🔑 3 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                73 commits          █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
-🌆 Daytime                177 commits         █████████████░░░░░░░░░░░░   52.84 % 
-🌃 Evening                81 commits          ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
-🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   134 commits         ██████████░░░░░░░░░░░░░░░   40.00 % 
-Tuesday                  56 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-Wednesday                51 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-Thursday                 20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-Friday                   28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-Saturday                 5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-Sunday                   41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     3 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
-JavaScript               3 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
-TypeScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-```
-
-
-
-
- Last Updated on 11/05/2023 01:18:56 UTC
 <!--END_SECTION:waka-->
 
 </table>
