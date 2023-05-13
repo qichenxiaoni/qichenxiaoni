@@ -28,8 +28,8 @@
     <a href="#">
         <img src="https://img.shields.io/badge/Bilibili-B%E7%AB%99-blue" />
     </a>&emsp;
-    <!-- visitor statistics logo 访客数统计徽标 
-    <img src="https://visitor-badge.glitch.me/badge?page_id=qichenxiaoni" alt="访客统计" />-->
+    <!-- visitor statistics logo 访客数统计徽标 -->
+    <img src="https://komarev.com/ghpvc/?username=qichenxiaoni&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </div>
 </div>
 
