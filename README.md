@@ -11,7 +11,7 @@
 
 ⏳ Year progress { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 29.67 %
 ---<br>
-⏰ Updated on Sun, 21 May 2023 12:09:48 GMT
+⏰ Updated on Sun, 21 May 2023 18:07:13 GMT
 </div>
   
 <!-- 添加图片  -->
@@ -78,77 +78,7 @@
 <tr><td>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 68.3 kB Used in GitHub's Storage 
- > 
-> 🏆 317 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 11 Public Repositories 
- > 
-> 🔑 3 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                83 commits          ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
-🌆 Daytime                176 commits         █████████████░░░░░░░░░░░░   52.69 % 
-🌃 Evening                72 commits          █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
-🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   134 commits         ██████████░░░░░░░░░░░░░░░   40.12 % 
-Tuesday                  56 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-Wednesday                44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Thursday                 16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-Friday                   28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-Saturday                 14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-Sunday                   42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Markdown                 11 hrs 40 mins      ████████████████████████░   97.74 % 
-CSS                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-
-🔥 Editors: 
-Obsidian                 11 hrs 40 mins      ████████████████████████░   97.74 % 
-VS Code                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-
-🐱‍💻 Projects: 
-Unknown Project          11 hrs 55 mins      █████████████████████████   99.90 % 
-Study                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-
-💻 Operating System: 
-Windows                  11 hrs 56 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     3 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
-JavaScript               3 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
-TypeScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-```
-
-
-
-
- Last Updated on 21/05/2023 12:28:14 UTC
 <!--END_SECTION:waka-->
 
 </table>
