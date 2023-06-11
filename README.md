@@ -78,7 +78,79 @@
 <tr><td>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2053%20mins-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 69.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 338 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 11 Public Repositories 
+ > 
+> 🔑 3 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                104 commits         ███████░░░░░░░░░░░░░░░░░░   29.30 % 
+🌆 Daytime                176 commits         ████████████░░░░░░░░░░░░░   49.58 % 
+🌃 Evening                72 commits          █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
+🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   137 commits         ██████████░░░░░░░░░░░░░░░   38.59 % 
+Tuesday                  59 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+Wednesday                47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Thursday                 19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Friday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+Saturday                 17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Sunday                   45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+HTML                     1 hr 59 mins        ████████████████████████░   97.97 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+
+🔥 Editors: 
+VS Code                  1 hr 59 mins        █████████████████████████   98.22 % 
+Obsidian                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+
+🐱‍💻 Projects: 
+Apple                    1 hr 59 mins        █████████████████████████   98.22 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+
+💻 Operating System: 
+Linux                    2 hrs 1 min         █████████████████████████   99.61 % 
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     3 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
+JavaScript               3 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
+TypeScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+```
+
+
+
+
+ Last Updated on 11/06/2023 01:49:55 UTC
 <!--END_SECTION:waka-->
 
 </table>
