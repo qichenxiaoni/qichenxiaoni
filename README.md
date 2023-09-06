@@ -6,7 +6,7 @@
         </a>
     </div>
     <!-- 敲代码图片 -->
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+    <img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/coding.gif" /><br>
     <!-- profile logo 个人资料徽标 -->
     <div align="center">
         <a href="https://www.chenxiaoni.work/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
@@ -26,7 +26,7 @@
 <!-- About me 关于我 -->
 ### About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/steven.png" />
 
 <p>&emsp;&emsp;我，一个时常想摆烂的代码人</p>
 <p>&emsp;&emsp;正在努力学习编程</p>
@@ -41,7 +41,7 @@
 <td>
 
 ### Work Experience
-<img align="right" width="88" src="./assets/images/hi.gif">
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/hi.gif">
 
 - [湖南会风电力科技有限公司]()&emsp; 📌 2023-08-21 ——Now
   - 工作岗位：数据分析员
@@ -53,7 +53,7 @@
 <tr><td>
 
 ### Recent Blog
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" align="right" width="88">
+<img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/astronaut.png" align="right" width="88">
 
 <!-- START_SECTION:blog -->
 * <a href="https://www.chenxiaoni.work/2023/04/20/Obsidian%E9%83%A8%E5%88%86%E6%8F%92%E4%BB%B6%E6%B1%89%E5%8C%96%E6%95%99%E7%A8%8B/" target='_blank'>Obsidian插件汉化</a> -2023-04-20
@@ -64,7 +64,7 @@
 <tr><td>
 
 ### Second Brain
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png">
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/technologist.png">
 
 <!-- START_SECTION:brain -->
 * <a href='https://developer.mozilla.org/zh-CN/docs/Web/HTML' target="_blank">HTML</a>
@@ -77,7 +77,7 @@
 <tr><td>
 
 ### Funny Soul
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/artist.png" />
 
 <!-- START_SECTION:douban -->
 * <a href="https://book.douban.com/subject/4913064/" target="_blank">活着</a> 🌟🌟🌟🌟🌟 力荐
@@ -113,7 +113,7 @@
 </table>
 
 <!-- ############################################# -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/hr.gif" />
 
 <div align="center">
 
@@ -137,7 +137,7 @@ mindmap
 ```
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250">
+<img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/man.png" alt="Man Lifting Weights" width="250" height="250">
 
 <!-- skill badge 技能徽章 -->
 
@@ -185,29 +185,29 @@ mindmap
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" style="width: 65px; height:65px; margin-right: 50px; margin-bottom:0px;" />
 
 <!-- gif -->
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/react.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/html.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/cssgif.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/vscode.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/react.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/Picture-warehouse/assets/vue.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/python.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/js.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/github.webp">
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png"></div>
+<img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/icon.png"></div>
 
 <!-- profile-3d-contrib 3D贡献图 -->
 <img src="">
 </div>
 
 <!-- #################################分割########################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/hr.gif" />
 
-<div align="center>
+<div align="center">
 
 <!-- Github-Stats-Termianl 终端风格信息 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Github-Stats-Terminal/github_stats.svg" /><br>
+<img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/Github-Stats-Terminal/github_stats.svg" /><br>
 
 <!-- Quotes 名人名言 -->
 
@@ -232,11 +232,11 @@ mindmap
 
 <!-- ####################分割
 ################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/hr.gif" />
 
 <div align="center">
 <!-- run 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" alt="Man Running" width='250' height='250'>
+<img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/man_run.png" alt="Man Running" width='250' height='250'>
 
 <!-- Joke 笑话 -->
 <div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
@@ -245,9 +245,9 @@ mindmap
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qichenxiaoni&theme=dark&hide_border=true" />
 
 <!-- metrics 基础资料 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />&emsp;
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/base.svg" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />
+<img width="150" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/cxyduck.gif" />&emsp;
+<img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/github-metrics/base.svg" />
+&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/cxyduck.gif" />
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table align="center">
@@ -259,11 +259,11 @@ mindmap
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/hr.gif" />
 
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
 
 <!-- just img 图片 -->
-<img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
+<img width="36%" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/githubgif.gif" />
 </div>
