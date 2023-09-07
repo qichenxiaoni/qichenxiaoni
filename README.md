@@ -16,6 +16,11 @@
     <!-- vistor statistics logo访问量统计徽章 -->
     <img src="https://komarev.com/ghpvc/?username=qichenxiaoni&label=Views&color=0e75b6&style=flat" alt="访问量统计">
     <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/profile-snake-contrib/github-contribution-grid-snake.svg" />
+      <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    </picture>
 
 </div>
 
@@ -105,10 +110,47 @@
 
 <tr><td>
 
-<!-- START_SECTION:waka -->
+<!--START_SECTION:waka-->
+**I'm an Early 🐤** 
 
-<!-- END_SECTION:waka -->
+```text
+🌞 Morning                391 commits         ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
+🌆 Daytime                544 commits         ████████░░░░░░░░░░░░░░░░░   31.09 % 
+🌃 Evening                550 commits         ████████░░░░░░░░░░░░░░░░░   31.43 % 
+🌙 Night                  265 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+```
+📅 **I'm Most Productive on Friday** 
 
+```text
+Monday                   231 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+Tuesday                  197 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Wednesday                226 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Thursday                 209 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Friday                   482 commits         ███████░░░░░░░░░░░░░░░░░░   27.54 % 
+Saturday                 163 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Sunday                   242 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+JSON                     15 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  15 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      15 mins             █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 07/09/2023 01:11:33 UTC
+<!--END_SECTION:waka-->
+  
 </td></tr>
 </table>
 
