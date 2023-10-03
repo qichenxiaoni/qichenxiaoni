@@ -31,7 +31,7 @@
 <!-- About me 关于我 -->
 ### About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/steven.png" />
+<!-- <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/steven.png" /> -->
 
 <p>&emsp;&emsp;我，一个时常想摆烂的代码人</p>
 <p>&emsp;&emsp;正在努力学习编程</p>
@@ -46,7 +46,7 @@
 <td>
 
 ### Work Experience
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/hi.gif">
+<!-- <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/hi.gif"> -->
 
 - [湖南会风电力科技有限公司]()&emsp; 📌 2023-08-21 ——Now
   - 工作岗位：数据分析员
@@ -58,7 +58,7 @@
 <tr><td>
 
 ### Recent Blog
-<img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/astronaut.png" align="right" width="88">
+<!-- <img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/astronaut.png" align="right" width="88"> -->
 
 <!-- START_SECTION:blog -->
 * <a href="https://www.chenxiaoni.work/2023/04/20/Obsidian%E9%83%A8%E5%88%86%E6%8F%92%E4%BB%B6%E6%B1%89%E5%8C%96%E6%95%99%E7%A8%8B/" target='_blank'>Obsidian插件汉化</a> -2023-04-20
@@ -69,7 +69,7 @@
 <tr><td>
 
 ### Second Brain
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/technologist.png">
+<!-- <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/technologist.png"> -->
 
 <!-- START_SECTION:brain -->
 * <a href='https://developer.mozilla.org/zh-CN/docs/Web/HTML' target="_blank">HTML</a>
@@ -82,7 +82,7 @@
 <tr><td>
 
 ### Funny Soul
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/artist.png" />
+<!-- <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/artist.png" /> -->
 
 <!-- START_SECTION:douban -->
 * <a href="https://book.douban.com/subject/4913064/" target="_blank">活着</a> 🌟🌟🌟🌟🌟 力荐
