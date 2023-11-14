@@ -11,8 +11,8 @@
     <div align="center">
         <a href="https://www.chenxiaoni.work/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
         <a href="https://space.bilibili.com//"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-        <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-        <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+        <!--<a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+        <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp; -->
     <!-- vistor statistics logo访问量统计徽章 -->
     <img src="https://komarev.com/ghpvc/?username=qichenxiaoni&label=Views&color=0e75b6&style=flat" alt="访问量统计">
     <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
@@ -264,8 +264,8 @@ mindmap
 <img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=qichenxiaoni&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 <img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=qichenxiaoni&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)" /><br><br>
 
-<!-- Awesome repo 比较好的仓库 -->
-<a href="">
+<!-- Awesome repo 比较好的仓库
+<a href=""> -->
 
 <!-- Wakatime Graph -->
 <table>
