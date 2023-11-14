@@ -242,8 +242,8 @@ mindmap
 <img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/icon.png"></div>
 
 <!-- profile-3d-contrib 3D贡献图 -->
-<img src="">
-</div>
+<!-- <img src="">
+</div> -->
 
 <!-- #################################分割########################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/hr.gif" />
@@ -268,11 +268,11 @@ mindmap
 <a href=""> -->
 
 <!-- Wakatime Graph -->
-<table>
+<!-- <table>
   <tr>
     <td><img src='https://wakatime.com/share/@'>
 </tr>
-</table>
+</table> -->
 
 <!-- ####################分割
 ################## -->
@@ -289,9 +289,9 @@ mindmap
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qichenxiaoni&theme=dark&hide_border=true" />
 
 <!-- metrics 基础资料 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/cxyduck.gif" />&emsp;
+<!-- <img width="150" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/cxyduck.gif" />&emsp;
 <img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/github-metrics/base.svg" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/cxyduck.gif" />
+&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/cxyduck.gif" /> -->
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table align="center">
