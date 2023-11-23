@@ -138,18 +138,17 @@ Sunday                   27 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     25 mins             ███████████████████░░░░░░   75.74 % 
-Markdown                 8 mins              ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  33 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    33 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 22/11/2023 00:40:21 UTC
+ Last Updated on 23/11/2023 00:38:32 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
