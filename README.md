@@ -2,7 +2,7 @@
     <!-- dynamic typing effect 动态打字效果 -->
     <div align="center">
     <a href="https://www.chenxiaoni.work/">
-            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);祝我们都能有个美好的未来!&center=true&size=27" alt="" />
+            <img src="https://readme-typing-svg.demolab.com?font=Ping+Fang&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);祝我们都能有个美好的未来!&center=true&size=27" alt="" />
         </a>
     </div>
     <!-- 敲代码图片 -->
@@ -31,8 +31,6 @@
 <!-- About me 关于我 -->
 ### About Me
 
-<!-- <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/steven.png" /> -->
-
 <p>&emsp;&emsp;我，一个时常想摆烂的代码人</p>
 <p>&emsp;&emsp;正在努力学习编程</p>
 <p>&emsp;&emsp;学习编程很痛苦，但我享受执行成功那一瞬间的喜悦</p>
@@ -46,19 +44,17 @@
 <td>
 
 ### Work Experience
-<!-- <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/hi.gif"> -->
 
 - [湖南会风电力科技有限公司]()&emsp; 📌 2023-08-21 ——Now
-  - 工作岗位：数据分析员
-  - 工作内容：数据相关
+  - 工作岗位：数据分析师
+  - 工作内容：数据分析
 
-</td>
-</tr>
+</td></tr>
 
 <tr><td>
 
 ### Recent Blog
-<!-- <img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/astronaut.png" align="right" width="88"> -->
+<img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/astronaut.png" align="right" width="88">
 
 <!-- START_SECTION:blog -->
 * <a href="https://www.chenxiaoni.work/2023/04/20/Obsidian%E9%83%A8%E5%88%86%E6%8F%92%E4%BB%B6%E6%B1%89%E5%8C%96%E6%95%99%E7%A8%8B/" target='_blank'>Obsidian插件汉化</a> -2023-04-20
@@ -69,7 +65,6 @@
 <tr><td>
 
 ### Second Brain
-<!-- <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/technologist.png"> -->
 
 <!-- START_SECTION:brain -->
 * <a href='https://developer.mozilla.org/zh-CN/docs/Web/HTML' target="_blank">HTML</a>
@@ -82,10 +77,13 @@
 <tr><td>
 
 ### Funny Soul
-<!-- <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/artist.png" /> -->
 
 <!-- START_SECTION:douban -->
-* <a href="https://book.douban.com/subject/4913064/" target="_blank">活着</a> 🌟🌟🌟🌟🌟 力荐
+* <a href="https://book.douban.com/subject/4913064/" target="_blank">活着</a>  🌟🌟🌟🌟🌟 力荐
+* <a href="https://book.douban.com/subject/30254298/" target="_blank">云边有个小卖部</a>
+🌟🌟🌟🌟🌟 力荐
+* <a href="https://book.douban.com/subject/1770782/" target="_blank">追风筝的人</a>
+🌟🌟🌟🌟🌟 力荐
 <!-- END_SECTION:douban -->
 
 </td></tr>
@@ -111,46 +109,7 @@
 <tr><td>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                52 commits          █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
-🌆 Daytime                120 commits         ████████████░░░░░░░░░░░░░   47.81 % 
-🌃 Evening                76 commits          ████████░░░░░░░░░░░░░░░░░   30.28 % 
-🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   111 commits         ███████████░░░░░░░░░░░░░░   44.22 % 
-Tuesday                  43 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-Wednesday                18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-Thursday                 18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-Friday                   24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-Saturday                 10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
-Sunday                   27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Markdown                 1 hr 31 mins        █████████████████████████   99.75 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-
-🔥 Editors: 
-VS Code                  1 hr 31 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    1 hr 31 mins        █████████████████████████   99.75 % 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-```
-
-
- Last Updated on 09/12/2023 00:38:16 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
@@ -175,14 +134,16 @@ mindmap
             琼海
             三亚
             儋州
+            东莞
+            郴州
         阅读
             活着
             在细雨中呼喊
             许三观卖血记
+            云边有个小卖部
+            追风筝的人
 ```
 
-<!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/man.png" alt="Man Lifting Weights" width="250" height="250">
 
 <!-- skill badge 技能徽章 -->
 
@@ -213,38 +174,9 @@ mindmap
 ![Git Badge](https://img.shields.io/badge/Git-31A8FF?logo=git&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
-<!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=html,css,java,python,c,cpp,discord,twitter,idea,vscode,git,github,mysql" /><br>
-
-<!-- svg -->
-
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" style="width: 65px; height:65px; margin-right: 50px; margin-bottom:0px;" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" style="width: 65px; height:65px; margin-right: 50px; margin-bottom:0px;" />
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" style="width: 65px; height:65px; margin-right: 50px; margin-bottom:0px;" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" style="width: 65px; height:65px; margin-right: 50px; margin-bottom:0px;" />
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" style="width: 65px; height:65px; margin-right: 50px; margin-bottom:0px;" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" style="width: 65px; height:65px; margin-right: 50px; margin-bottom:0px;" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" style="width: 65px; height:65px; margin-right: 50px; margin-bottom:0px;"  />
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" style="width: 65px; height:65px; margin-right: 50px; margin-bottom:0px;" />
-<img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" style="width: 65px; height:65px; margin-right: 50px; margin-bottom:0px;" />
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" style="width: 65px; height:65px; margin-right: 50px; margin-bottom:0px;" />
-
-<!-- gif -->
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/html.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/react.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/Picture-warehouse/assets/vue.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/github.webp">
-
-<!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/icon.png"></div>
-
 <!-- profile-3d-contrib 3D贡献图 -->
-<!-- <img src="">
-</div> -->
+<img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/profile-3d-contrib/profile-night-green.svg">
+</div>
 
 <!-- #################################分割########################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/hr.gif" />
@@ -265,23 +197,16 @@ mindmap
 <img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=qichenxiaoni&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 <img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=qichenxiaoni&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)" /><br><br>
 
-<!-- Awesome repo 比较好的仓库
-<a href=""> -->
-
-<!-- Wakatime Graph -->
-<!-- <table>
+<!-- running -->
+<table>
   <tr>
-    <td><img src='https://wakatime.com/share/@'>
-</tr>
-</table> -->
+    <td colspan="2"><img width="200%" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/running_page/assets/github_2023.svg" /></a><br></td>
+  </tr>
+</table>
 
 <!-- ####################分割
 ################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/hr.gif" />
-
-<div align="center">
-<!-- run 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/man_run.png" alt="Man Running" width='250' height='250'>
 
 <!-- Joke 笑话 -->
 <div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
@@ -290,10 +215,7 @@ mindmap
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qichenxiaoni&theme=dark&hide_border=true" />
 
 <!-- metrics 基础资料 -->
-<!-- <img width="150" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/cxyduck.gif" />&emsp;
 <img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/github-metrics/base.svg" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/cxyduck.gif" /> -->
-
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table align="center">
   <tr>
@@ -305,9 +227,6 @@ mindmap
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/hr.gif" />
-
-<!-- GitHub metrics 信息指标 -->
-<div align="center">
 
 <!-- just img 图片 -->
 <img width="36%" src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/githubgif.gif" />
