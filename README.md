@@ -54,7 +54,6 @@
 <tr><td>
 
 ### Recent Blog
-<img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/assets/astronaut.png" align="right" width="88">
 
 <!-- START_SECTION:blog -->
 * <a href="https://www.chenxiaoni.work/2023/04/20/Obsidian%E9%83%A8%E5%88%86%E6%8F%92%E4%BB%B6%E6%B1%89%E5%8C%96%E6%95%99%E7%A8%8B/" target='_blank'>Obsidian插件汉化</a> -2023-04-20
