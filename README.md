@@ -174,7 +174,7 @@ mindmap
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
 <!-- profile-3d-contrib 3D贡献图 -->
-<img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/profile-3d-contrib/profile-night-green.svg">
+<img src="https://cdn.jsdelivr.net/gh/qichenxiaoni/qichenxiaoni/profile-3d-contrib/profile-night-green.svg"/>
 </div>
 
 <!-- #################################分割########################## -->
