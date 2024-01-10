@@ -87,6 +87,23 @@
 
 </td></tr>
 
+<tr><td>
+
+### My Movie
+
+<!-- START_SECTION:douban -->
+* <a href="https://movie.douban.com/subject/6873143/" target="_blank">一条狗的使命</a>
+🌟🌟🌟🌟🌟力荐
+* <a href="https://movie.douban.com/subject/27074316/" target="_blank">一条狗的使命2</a>
+🌟🌟🌟🌟🌟力荐
+* <a href="https://movie.douban.com/subject/30337388/" target="_blank">失控玩家</a>
+🌟🌟🌟🌟推荐
+* <a href="https://movie.douban.com/subject/26259677/" target="_blank" >垫底辣妹</a>
+🌟🌟🌟🌟🌟力荐
+<!-- END_SECTION:douban -->
+
+</td></tr>
+
 <!-- wakatime统计 -->
 <tr><td>
 
