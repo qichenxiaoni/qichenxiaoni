@@ -83,6 +83,11 @@
 🌟🌟🌟🌟🌟 力荐
 * <a href="https://book.douban.com/subject/1770782/" target="_blank">追风筝的人</a>
 🌟🌟🌟🌟🌟 力荐
+* <a href="https://book.douban.com/subject/20421947/" target="_blank">在细雨中呼喊</a>
+🌟🌟🌟🌟🌟 力荐
+* <a href="https://book.douban.com/subject/10604009/" target="_blank">金银岛</a>
+🌟🌟🌟🌟推荐
+
 <!-- END_SECTION:douban -->
 
 </td></tr>
@@ -99,6 +104,8 @@
 * <a href="https://movie.douban.com/subject/30337388/" target="_blank">失控玩家</a>
 🌟🌟🌟🌟推荐
 * <a href="https://movie.douban.com/subject/26259677/" target="_blank" >垫底辣妹</a>
+🌟🌟🌟🌟🌟力荐
+* <a href="https://movie.douban.com/subject/1292720/" target="_blank">阿甘正传</a>
 🌟🌟🌟🌟🌟力荐
 <!-- END_SECTION:douban -->
 
