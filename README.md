@@ -33,10 +33,11 @@
 
 <p>&emsp;&emsp;我，一个时常想摆烂的代码人</p>
 <p>&emsp;&emsp;正在努力学习编程</p>
-<p>&emsp;&emsp;学习编程很痛苦，但我享受执行成功那一瞬间的喜悦</p>
+<p>&emsp;&emsp;学习编程很痛苦，但我痴迷享受执行成功那一瞬间的喜悦</p>
 <p>&emsp;&emsp;我们终会遇见美好，真心祝愿你我得偿所愿</p>
 <p>&emsp;&emsp;Cherish the present, cherish the people in front of you, life is only once, not so much in the future</p>
 <p>&emsp;&emsp;别人的话构不成万分之一的我，却可以成为一览无余的他</p>
+<p>&emsp;&emsp;如果再也见不到你，那祝你早安，午安，晚安！</p>
 
 </td></tr>
 
