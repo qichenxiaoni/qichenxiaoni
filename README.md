@@ -164,18 +164,17 @@ Sunday                   29 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-CSS                      5 hrs 19 mins       █████████████████████████   99.88 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+CSS                      3 hrs 17 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 20 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 17 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 20 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/07/2026 01:51:46 UTC
+ Last Updated on 26/07/2026 01:55:43 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
